@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://berkturkcan24.github.io/snippets-s8nwbg/sitemap.xml
